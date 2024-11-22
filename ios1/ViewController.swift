@@ -9,7 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
     let uiVC = UploadimageViewController()
-    let data = 1
+    let data = 2
+    let data1 = 3
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
